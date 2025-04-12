@@ -375,7 +375,7 @@ const AnimePage = () => {
           <div className="p-4 mt-8 bg-gray-800 rounded-lg shadow-md">
             <h2 className="text-xl font-bold mb-4">Seasons</h2>
             <div className="flex gap-4 overflow-x-auto">
-              <a href="https://www.animekai.to/seasons/season-1">
+              <a href="/">
                 <button>
                   <div
                     className="bg-gray-700 p-4 rounded-lg flex-shrink-0 w-48"
@@ -392,7 +392,7 @@ const AnimePage = () => {
                   </div>
                 </button>
               </a>
-              <a href="https://www.animekai.to/seasons/season-2">
+              <a href="https://animeflux-slf-s02.pages.dev/">
                 <button>
                   <div
                     className="bg-gray-700 p-4 rounded-lg flex-shrink-0 w-48"
